@@ -15,7 +15,7 @@ function displayItem() {
                 <div class="inputController">
                     <textarea disabled>${itemsArray[i]}</textarea>
                     <div class="editController">
-                        <i class="fas fa-check deleteBtn btn btn-danger"></i>
+                        <i class="fas fa-check deleteBtn btn-success"></i>
                     </div>
                 </div>
             </div>
