@@ -1,0 +1,21 @@
+h1 {
+    color: blueviolet;
+    margin-left: 20px;
+}
+#date {
+    font-size: 20px;
+    color: cornflowerblue;
+    border: 2px solid violet;
+    border-radius: 7px;
+    padding: 5px;
+}
+
+.inputController {
+    margin-left: 10px;
+}
+
+.toDoInput {
+    width: 500px;
+    border: none;
+    padding: 10px;
+}
